@@ -1,62 +1,46 @@
-# Hi there 👋🏿  
-I'm **Domingos**, from **Luanda**!  
+<p align="center">
+    <a href="https://github.com/domingosdeeulariadumba">
+        <img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+👋🏿;I'm+Domingos+de+Eulária+Dumba+%7C+Data+Analyst" alt="Typing SVG" style="margin-bottom: 0;" />
+    </a>
+    <img src="https://drive.google.com/uc?export=view&id=1fTpqeAvWiTs7QaqVD3mL7IgqhhAUUR57" height="288" width="480" style="margin-top: -10px;">
+    <br/>
+    <a href="https://xplendid.onrender.com">
+        <img src="https://img.shields.io/badge/🚀%20Try%20Xplendid-black?style=for-the-badge">
+    </a>  
+    <a href="https://ko-fi.com/domingosdeeulariadumba">
+        <img src="https://img.shields.io/badge/Ko--fi-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=black&label=">
+    </a>
+    <a href="https://linktr.ee/domingosdeeulariadumba">
+        <img src="https://img.shields.io/badge/Linktree-Linktree-white?style=for-the-badge&logo=linktree&logoColor=white&labelColor=black&color=black&label=">
+    </a>
+    <a href="mailto:domingosdeeulariadumba@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black&label=">
+    </a>
+</p>
 
-<div style="display: flex; flex-wrap: nowrap; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/110714056/236336102-71f81467-0e48-4e18-beb4-4ddf9d54ef6f.gif" height="300" width="700" style="border-radius: 12px; margin-right: 20px;">
-  
-  <div style="max-width: 550px; flex: 1;">
-    -🌱 I'm currently learning Python and working on <a href="https://imdbrecommender.onrender.com/" target="_blank"><strong>IMDb Recommender</strong></a>.
-      <br>
-    - 👯  I'm looking to collaborate with professionals in the data analytics and tech fields.
-      <br>
-    - 📫 Reach me here: 
-    <div style="display: inline-flex; align-items: center;">
-      <a href="https://linkedin.com/in/domingosdeeulariadumba/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="margin-right: 5px;" />
-      </a>
-      <a href="https://linktr.ee/domingosdeeulariadumba" target="_blank">
-        <img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="Linktree" height="20" width="20" />
-      </a>
-    </div>
-    <br>
-    - ⚡ It's funny, but I hardly go a day without listening to music I like the most. Especially this one:
-      <br>
-      <br>
-    <p style="text-align: center;">
-        🎶 Now Playing
+* 📚 Currently learning **_Python_**, **_Scala_**, and **_Julia_**.
+* 🧱 Interested in building any exciting, functional and helpful **_Data Science_** stuff.
+* ⛅ It's funny :), but I hardly go a day without listening to music I like the most.
+Especially this jewel down here: 
+<p align="center">
+            ♪ Now Playing
         <br>
         lıllılı.ıllı.ılılıılıı.lllııılı.
         <br>
-        🎧 Lupe Fiasco: <em>Haile Selassie</em> (feat. Nikki Jean)
+        🎧 <strong>Lupe Fiasco: <em>Haile Selassie</em> (feat. Nikki Jean)</strong>
         <br>
         0:34 ———♡——— 4:49
         <br>
-        ◁◁          ▐  ▌          ▷▷
-    </p>
-  </div>
-</div>
+        ◁◁  ▐  ▌  ▷▷
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/9fgTkFd3/sqlserver-icon.png" alt="SQL/MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/GmQvkj9m/powerbi-icon.png" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.ibm.com/products/cognos-analytics" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/SNc6K4h8/ibmcognos-icon.png" alt="IBM Cognos" width="40" height="30"/>
-  </a>
-  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/0yxpM4k4/looker-icon.png" alt="Looker Studio" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://i.postimg.cc/25ShTBBF/redis-icon.png" alt="Redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" width="40" height="40"/>
-  </a>
-</p>
+
+### 💻🛠️ Tech Stack
+
+| Technology           | Tools                                                                                                                                                                                                 | Activities                                                                                       |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| SQL                  | ![SQL Server](https://img.shields.io/badge/SQL%20Server-black?style=flat-square&logo=microsoft-sql-server) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite) | Database design, data querying, and data management.                                             |
+| Programming          | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Scala](https://img.shields.io/badge/Scala-black?style=flat-square&logo=scala) ![Julia](https://img.shields.io/badge/Julia-black?style=flat-square&logo=julia) ![R](https://img.shields.io/badge/R-black?style=flat-square&logo=r) | Data analysis, machine learning, forecasting, statistical modeling, and deployment.                      |
+| Business Intelligence| ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=power-bi) ![Looker](https://img.shields.io/badge/Looker-black?style=flat-square&logo=looker) ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-black?style=flat-square&logo=ibm) | Data visualization, reporting, and business analytics.                                           |
+| NoSQL                | ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Neo4j](https://img.shields.io/badge/Neo4j-black?style=flat-square&logo=neo4j) ![Cassandra](https://img.shields.io/badge/Cassandra-black?style=flat-square&logo=apache-cassandra) | Handling unstructured data, real-time data processing, and graph databases.                      |
+| Cloud/Big Data       | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws) ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=google-cloud) ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat-square&logo=databricks) ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apache-spark) | Cloud computing, data storage, scalable data processing, and big data analytics.                 |
+| Additional Tools               | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) | Containerization, web development, and version control.   
