@@ -31,7 +31,7 @@ Especially this jewel down here:
         <br>
         🎧 <strong>Lupe Fiasco: <em>Haile Selassie</em> (feat. Nikki Jean)</strong>
         <br>
-        0:34 ———❤️——— 4:49
+        0:34 ———💚——— 4:49
         <br>
         ◁◁  ▐  ▌  ▷▷
         <br>
