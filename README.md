@@ -18,20 +18,24 @@
     </a>
 </p>
 
-* 📚 Currently learning **_Python_**, **_Scala_**, and **_Julia_**.
+* 📚 Currently mastering **_Python_**,  and exploring **_Scala_**, and **_Julia_**.
 * 🧱 Interested in building any exciting, functional and helpful **_Data Science_** stuff.
 * ⛅ It's funny :), but I hardly go a day without listening to music I like the most.
 Especially this jewel down here: 
 <p align="center">
-            ♪ Now Playing
+            <a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7" target="_blank">
+            <img src="https://img.shields.io/badge/♪%20Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" style="vertical-align: middle; margin-left: 5px;">
+        </a>
         <br>
         lıllılı.ıllı.ılılıılıı.lllııılı.
         <br>
         🎧 <strong>Lupe Fiasco: <em>Haile Selassie</em> (feat. Nikki Jean)</strong>
         <br>
-        0:34 ———♡——— 4:49
+        0:34 ———❤️——— 4:49
         <br>
         ◁◁  ▐  ▌  ▷▷
+        <br>
+</p>
 
 
 ### 💻🛠️ Tech Stack
@@ -43,4 +47,4 @@ Especially this jewel down here:
 | Business Intelligence| ![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=power-bi) ![Looker](https://img.shields.io/badge/Looker-black?style=flat-square&logo=looker) ![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-black?style=flat-square&logo=ibm) | Data visualization, reporting, and business analytics.                                           |
 | NoSQL                | ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) ![Neo4j](https://img.shields.io/badge/Neo4j-black?style=flat-square&logo=neo4j) ![Cassandra](https://img.shields.io/badge/Cassandra-black?style=flat-square&logo=apache-cassandra) | Handling unstructured data, real-time data processing, and graph databases.                      |
 | Cloud/Big Data       | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws) ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=google-cloud) ![DataBricks](https://img.shields.io/badge/DataBricks-black?style=flat-square&logo=databricks) ![Spark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apache-spark) | Cloud computing, data storage, scalable data processing, and big data analytics.                 |
-| Additional Tools               | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) | Containerization, web development, and version control.   
+| Additional Tools               | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git) | Containerization, web development, and version control.     
