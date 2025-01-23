@@ -23,7 +23,7 @@
 * ⛅ It's funny :), but I hardly go a day without listening to music I like the most.
 Especially this jewel down here: 
 <p align="center">
-            <a href="https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7" target="_blank">
+            <a href="https://open.spotify.com/track/0gdZeLCK5OBY9yQY6tiZB9" target="_blank">
             <img src="https://img.shields.io/badge/♪%20Now%20Playing-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify" style="vertical-align: middle; margin-left: 5px;">
         </a>
         <br>
