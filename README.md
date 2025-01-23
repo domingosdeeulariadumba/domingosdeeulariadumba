@@ -2,7 +2,7 @@
     <a href="https://github.com/domingosdeeulariadumba">
         <img src="https://readme-typing-svg.demolab.com?font=Fire+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+👋🏿;I'm+Domingos+de+Eulária+Dumba+%7C+Data+Analyst" alt="Typing SVG" style="margin-bottom: 0;" />
     </a>
-    <img src="https://drive.google.com/uc?export=view&id=1fTpqeAvWiTs7QaqVD3mL7IgqhhAUUR57" height="288" width="480" style="margin-top: -10px;">
+    <img src="https://drive.google.com/uc?export=view&id=1fTpqeAvWiTs7QaqVD3mL7IgqhhAUUR57" height="239" width="480" style="margin-top: -10px;">
     <br/>
     <a href="https://xplendid.onrender.com">
         <img src="https://img.shields.io/badge/🚀%20Try%20Xplendid-black?style=for-the-badge">
