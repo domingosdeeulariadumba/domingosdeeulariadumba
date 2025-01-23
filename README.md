@@ -18,7 +18,7 @@
     </a>
 </p>
 
-* 📚 Currently mastering **_Python_**,  and exploring **_Scala_**, and **_Julia_**.
+* 📚 Currently mastering **_Python_**,  and exploring **_Scala_**, **_Julia_**, and **_R_**.
 * 🧱 Interested in building any exciting, functional and helpful **_Data Science_** stuff.
 * ⛅ It's funny :), but I hardly go a day without listening to music I like the most.
 Especially this jewel down here: 
