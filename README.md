@@ -1,22 +1,28 @@
 <p align="center">
-    <a href="https://github.com/domingosdeeulariadumba">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BF;I'm+Domingos+de+Eulária+Dumba+%7C+Data+Analyst" alt="Typing SVG" style="margin-bottom: 0;" />
-    </a>
-    <img src="https://drive.google.com/uc?export=view&id=1fTpqeAvWiTs7QaqVD3mL7IgqhhAUUR57" height="239" width="480" style="margin-top: -10px;">
-    <br/>
-    <a href="https://xplendid.onrender.com">
-        <img src="https://img.shields.io/badge/🚀%20Try%20Xplendid-black?style=for-the-badge">
-    </a>  
-    <a href="https://ko-fi.com/domingosdeeulariadumba">
-        <img src="https://img.shields.io/badge/Ko--fi-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=black&label=">
-    </a>
-    <a href="https://linktr.ee/domingosdeeulariadumba">
-        <img src="https://img.shields.io/badge/Linktree-Linktree-white?style=for-the-badge&logo=linktree&logoColor=white&labelColor=black&color=black&label=">
-    </a>
-    <a href="mailto:domingosdeeulariadumba@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black&label=">
-    </a>
+  <a href="https://github.com/domingosdeeulariadumba">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BF;I'm+Domingos+de+Eulária+Dumba+%7C+Data+Analyst" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1fTpqeAvWiTs7QaqVD3mL7IgqhhAUUR57" height="239" width="480">
+</p>
+
+<p align="center">
+  <a href="https://xplendid.onrender.com">
+    <img src="https://img.shields.io/badge/🚀%20Try%20Xplendid-black?style=for-the-badge">
+  </a>
+  <a href="https://ko-fi.com/domingosdeeulariadumba">
+    <img src="https://img.shields.io/badge/Ko--fi-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=black&label=">
+  </a>
+  <a href="https://linktr.ee/domingosdeeulariadumba">
+    <img src="https://img.shields.io/badge/Linktree-Linktree-white?style=for-the-badge&logo=linktree&logoColor=white&labelColor=black&color=black&label=">
+  </a>
+  <a href="mailto:domingosdeeulariadumba@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black&label=">
+  </a>
+</p>
+
 
 * 📚 Currently mastering **_Python_** — also exploring **_Scala_** and **_Julia_**.
 * 🧱 Interested in building any exciting, functional and helpful **_Data Science_** stuff.
