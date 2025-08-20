@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://xplendid.onrender.com">
+  <a href="https://xplendid.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀%20Try%20Xplendid-black?style=for-the-badge">
   </a>
   <a href="https://ko-fi.com/domingosdeeulariadumba">
