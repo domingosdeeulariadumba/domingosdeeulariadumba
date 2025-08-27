@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/domingosdeeulariadumba">
-    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BF;I'm+Domingos+de+Eul%C3%A1ria+Dumba+%7C+Data+Analyst&v=2" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=16&duration=2000&pause=100&multiline=true&color=548494&width=500&height=80&lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BF;I'm+Domingos+de+Eul%C3%A1ria+Dumba+%7C+Data+Scientist&v=2" alt="Typing SVG" />
   </a>
 </p>
 
