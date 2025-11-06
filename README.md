@@ -15,8 +15,8 @@
   <a href="https://ko-fi.com/domingosdeeulariadumba">
     <img src="https://img.shields.io/badge/Ko--fi-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=black&color=black&label=">
   </a>
-  <a href="https://domingosdeeulariadumba.com">
-    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=black&color=black">
+  <a href="https://linktr.ee/domingosdeeulariadumba">
+    <img src="https://img.shields.io/badge/Linktree-Linktree-white?style=for-the-badge&logo=linktree&logoColor=white&labelColor=black&color=black&label=">
   </a>
   <a href="mailto:domingosdeeulariadumba@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black&label=">
